@@ -1,0 +1,25 @@
+{
+  "name": "ts-book",
+  "description": "Learning TypeScript",
+  "main": "gulpfile.js",
+  "authors": [
+    "Carlos Portillo"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "learning",
+    "typescript"
+  ],
+  "homepage": "https://github.com/cportillosv/ts-book",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jasmine-core": "jasmine#^2.4.1"
+  }
+}

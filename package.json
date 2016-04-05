@@ -1,0 +1,42 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "Learning TypeScript",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cportillosv/ts-book.git"
+  },
+  "keywords": [
+    "learning",
+    "typescript"
+  ],
+  "author": "Carlos Portillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cportillosv/ts-book/issues"
+  },
+  "homepage": "https://github.com/cportillosv/ts-book#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-karma": "0.0.5",
+    "gulp-tslint": "^4.3.4",
+    "gulp-typescript": "^2.12.1",
+    "karma": "^0.13.22",
+    "karma-chai": "^0.1.0",
+    "karma-coverage": "^0.5.5",
+    "karma-mocha": "^0.2.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-sinon": "^1.0.4",
+    "mocha": "^2.4.5",
+    "run-sequence": "^1.1.5",
+    "sinon": "^1.17.3"
+  },
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
